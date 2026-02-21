@@ -1,4 +1,5 @@
 [+] http://www.google.com | Durum: 200
-[+] http://admin.google.com | Durum: 200
 [+] http://mail.google.com | Durum: 200
 [+] http://blog.google.com | Durum: 200
+[+] http://m.google.com | Durum: 200
+[+] http://support.google.com | Durum: 200
